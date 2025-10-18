@@ -1,0 +1,5 @@
+Allprompts/outprocessing.py
+.env
+.venv/
+vscode/
+__pycache__/
