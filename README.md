@@ -1,4 +1,4 @@
-# 🚀 CustomAgent Python library — completely from scratch, without using any third-party LLM SDKs!
+# 🚀 I've Built a Custom Agent library in Python — completely from scratch, without using any third-party LLM SDKs!
 
 **CustomAgent** is a lightweight Python library for building LLM agents **from scratch**, without relying on any third-party SDKs like OpenAI Agent SDK, Google's ADK,PydanticAI etc... It’s built entirely with raw Python and `requests`, giving you full control over LLM requests, streaming, and structured responses.  
 
